@@ -190,3 +190,4 @@ window.addEventListener("load", function() {
   resetGame();
   loop();
 });
+// Flappy Bird Game
