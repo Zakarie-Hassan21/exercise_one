@@ -9,5 +9,9 @@
     <h1>This is login DB Page</h1>
     <p>Come ooon</p>
     <p>the database will be displayed in here</p>
+    <form>
+        <label for="username">Username</label>
+        <input type="text" name="username" id="username">
+    </form>
 </body>
 </html>
